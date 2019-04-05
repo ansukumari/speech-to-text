@@ -1,9 +1,3 @@
-**important links**
-https://realpython.com/python-speech-recognition/
-https://github.com/Uberi/speech_recognition/blob/master/reference/library-reference.rst
-https://pypi.org/project/SpeechRecognition/3.1.2/
-https://cloud.google.com/speech-to-text/docs/sync-recognize
-
 - activate virtualenv
 
 
@@ -51,3 +45,9 @@ https://cloud.google.com/speech-to-text/docs/sync-recognize
 	pip install pyaudio
 - run the default listening script: python -m speech_recognition
 
+
+**important links**
+- https://realpython.com/python-speech-recognition/
+- https://github.com/Uberi/speech_recognition/blob/master/reference/library-reference.rst
+- https://pypi.org/project/SpeechRecognition/3.1.2/
+- https://cloud.google.com/speech-to-text/docs/sync-recognize
